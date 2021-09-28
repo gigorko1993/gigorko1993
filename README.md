@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-| <a href="https://github.com/gigorko1993/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gigorko1993&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Igor Mokhnatskyy github stats" /></a> | <a href="https://github.com/gigorko1993/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gigorko1993&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/gigorko1993/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gigorko1993&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="Igor Mokhnatskyy github stats" /></a> | <a href="https://github.com/gigorko1993/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gigorko1993&layout=compact&theme=graywhite&hide_border=true" /></a> |
 | ------------- | ------------- |
 
