@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 
 ** 🛠️ Languages & Tools
 
-[<code><img src="https://raw.githubusercontent.com/gigorko1993/readme-icons/main/language_and_tools/square/html/html-i.svg" alt="html5" height='37px' /></code>](https://en.wikipedia.org/wiki/HTML 'HTML5')  
