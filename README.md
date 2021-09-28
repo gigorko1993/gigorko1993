@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 | <a href="https://github.com/gigorko1993/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gigorko1993&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="Igor Mokhnatskyy github stats" /></a> | <a href="https://github.com/gigorko1993/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gigorko1993&layout=compact&theme=graywhite&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+** 🛠️ Languages & Tools
+
+[<code><img src="https://raw.githubusercontent.com/gigorko1993/readme-icons/main/language_and_tools/square/html/html-i.svg" alt="html5" height='37px' /></code>](https://en.wikipedia.org/wiki/HTML 'HTML5')  
