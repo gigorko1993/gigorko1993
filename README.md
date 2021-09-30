@@ -31,8 +31,7 @@ Here are some ideas to get you started:
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/gigorko1993/gigorko1993/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.2]: https://ibb.co/dpYKnHN (linkedin icon without padding)
 
 <!-- Links to your social media accounts -->
 
