@@ -25,4 +25,12 @@ Here are some ideas to get you started:
 <a href="https://developer.mozilla.org/en/docs/Web/JavaScript"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=JavaScript&color=%230076D6&style=flat&logo=JavaScript&logoColor=%230076D6" alt="website JavaScript"/></a>
 <a href="https://create-react-app.dev"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=React JS&color=%230076D6&style=flat&logo=react&logoColor=%230076D6" alt="website React JS"/></a>
 <a href="https://nodejs.org/uk/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Node JS&color=%230076D6&style=flat&logo=node.js&logoColor=%230076D6" alt="website Node.js"/></a>
+<a href="https://sass-lang.com"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=SASS&color=%230076D6&style=flat&logo=sass&logoColor=%230076D6" alt="website SASS"/></a>
+<a href="https://redux-toolkit.js.org"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Redux&color=%230076D6&style=flat&logo=redux&logoColor=%230076D6" alt="website Redux"/></a>
+<a href="https://git-scm.com"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Git&color=%230076D6&style=flat&logo=git&logoColor=%230076D6" alt="website Git"/></a>
+<a href="https://www.postman.com"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Postman Code&color=%230076D6&style=flat&logo=Postman&logoColor=%230076D6" alt="website Postman"/></a>
+<a href="https://webpack.js.org"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Webpack&color=%230076D6&style=flat&logo=webpack&logoColor=%230076D6" alt="website Webpack"/></a>
+<a href="https://code.visualstudio.com"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Visual Studio Code&color=%230076D6&style=flat&logo=visual studio code&logoColor=%230076D6" alt="website Visual Studio Code"/></a>
+<a href="https://code.visualstudio.com"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Figma&color=%230076D6&style=flat&logo=Figma&logoColor=%230076D6" alt="website Figma"/></a>
+
 
