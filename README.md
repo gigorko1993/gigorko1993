@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 <a href="https://www.w3schools.com/html/default.asp"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=HTML&color=%230076D6&style=flat&logo=html5&logoColor=%230076D6" alt="website HTML"/></a>
 <a href="https://developer.mozilla.org/en/docs/Web/JavaScript"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=JavaScript&color=%230076D6&style=flat&logo=JavaScript&logoColor=%230076D6" alt="website JavaScript"/></a>
 <a href="https://create-react-app.dev"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=React JS&color=%230076D6&style=flat&logo=react&logoColor=%230076D6" alt="website React JS"/></a>
+<a href="https://nodejs.org/uk/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Node JS&color=%230076D6&style=flat&logo=node.js&logoColor=%230076D6" alt="website Node.js"/></a>
 
