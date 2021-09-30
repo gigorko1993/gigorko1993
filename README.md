@@ -1,18 +1,13 @@
-### Hi there 👋
+### Hello, my name is Igor Mokhnatskyy 👋
+
+### I'm full stack developer. I'm from Ukraine, and I'm currently open for cooperation. You can find me on [![LinkedIn][1.2]][1].
 
 <!--
 **gigorko1993/gigorko1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 | <a href="https://github.com/gigorko1993/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gigorko1993&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="Igor Mokhnatskyy github stats" /></a> | <a href="https://github.com/gigorko1993/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gigorko1993&layout=compact&theme=graywhite&hide_border=true" /></a> |
 | ------------- | ------------- |
@@ -33,5 +28,14 @@ Here are some ideas to get you started:
 <a href="https://github.com"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=GitHub&color=%230076D6&style=flat&logo=GitHub&logoColor=%230076D6" alt="website GitHub"/></a>
 <a href="https://code.visualstudio.com"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=VSC&color=%230076D6&style=flat&logo=visual studio code&logoColor=%230076D6" alt="website Visual Studio Code"/></a>
 <a href="https://code.visualstudio.com"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Figma&color=%230076D6&style=flat&logo=Figma&logoColor=%230076D6" alt="website Figma"/></a>
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/gigorko1993/gigorko1993/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://www.linkedin.com/feed/?trk=nav_logo
 
 
