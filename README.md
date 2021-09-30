@@ -1,6 +1,7 @@
 ### Hello, my name is Igor Mokhnatskyy 👋
 
-### I'm full stack developer. I'm from Ukraine, and I'm currently open for cooperation. You can find me on [![LinkedIn][1.2]][1].
+### I'm full stack developer. I'm from Ukraine, and I'm currently open for cooperation. You can find me on 
+<a href="https://www.linkedin.com/feed/?trk=nav_logo"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=LinkedIn&color=%230076D6&style=flat&logo=linkedin&logoColor=%230076D6" alt="website Linkedin"/></a>
 
 <!--
 **gigorko1993/gigorko1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,13 +29,5 @@ Here are some ideas to get you started:
 <a href="https://github.com"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=GitHub&color=%230076D6&style=flat&logo=GitHub&logoColor=%230076D6" alt="website GitHub"/></a>
 <a href="https://code.visualstudio.com"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=VSC&color=%230076D6&style=flat&logo=visual studio code&logoColor=%230076D6" alt="website Visual Studio Code"/></a>
 <a href="https://code.visualstudio.com"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Figma&color=%230076D6&style=flat&logo=Figma&logoColor=%230076D6" alt="website Figma"/></a>
-
-<!-- Icons -->
-
-[1.2]: https://ibb.co/dpYKnHN (linkedin icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://www.linkedin.com/feed/?trk=nav_logo
 
 
