@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <a href="https://www.postman.com"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Postman Code&color=%230076D6&style=flat&logo=Postman&logoColor=%230076D6" alt="website Postman"/></a>
 <a href="https://webpack.js.org"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Webpack&color=%230076D6&style=flat&logo=webpack&logoColor=%230076D6" alt="website Webpack"/></a>
 <a href="https://github.com"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=GitHub&color=%230076D6&style=flat&logo=GitHub&logoColor=%230076D6" alt="website GitHub"/></a>
-<a href="https://code.visualstudio.com"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Visual Studio Code&color=%230076D6&style=flat&logo=visual studio code&logoColor=%230076D6" alt="website Visual Studio Code"/></a>
+<a href="https://code.visualstudio.com"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=VSC&color=%230076D6&style=flat&logo=visual studio code&logoColor=%230076D6" alt="website Visual Studio Code"/></a>
 <a href="https://code.visualstudio.com"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Figma&color=%230076D6&style=flat&logo=Figma&logoColor=%230076D6" alt="website Figma"/></a>
 
 
