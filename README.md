@@ -18,18 +18,18 @@ Here are some ideas to get you started:
 ** 🛠️ Languages & Tools
 
 
-<a href="https://www.w3schools.com/css/default.asp"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=CSS&color=%230076D6&style=flat&logo=css3&logoColor=%230076D6" alt="website CSS"/></a>
-<a href="https://www.w3schools.com/html/default.asp"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=HTML&color=%230076D6&style=flat&logo=html5&logoColor=%230076D6" alt="website HTML"/></a>
-<a href="https://developer.mozilla.org/en/docs/Web/JavaScript"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=JavaScript&color=%230076D6&style=flat&logo=JavaScript&logoColor=%230076D6" alt="website JavaScript"/></a>
-<a href="https://create-react-app.dev"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=React JS&color=%230076D6&style=flat&logo=react&logoColor=%230076D6" alt="website React JS"/></a>
-<a href="https://nodejs.org/uk/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Node JS&color=%230076D6&style=flat&logo=node.js&logoColor=%230076D6" alt="website Node.js"/></a>
-<a href="https://sass-lang.com"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=SASS&color=%230076D6&style=flat&logo=sass&logoColor=%230076D6" alt="website SASS"/></a>
-<a href="https://redux-toolkit.js.org"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Redux&color=%230076D6&style=flat&logo=redux&logoColor=%230076D6" alt="website Redux"/></a>
-<a href="https://git-scm.com"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Git&color=%230076D6&style=flat&logo=git&logoColor=%230076D6" alt="website Git"/></a>
-<a href="https://www.postman.com"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Postman Code&color=%230076D6&style=flat&logo=Postman&logoColor=%230076D6" alt="website Postman"/></a>
-<a href="https://webpack.js.org"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Webpack&color=%230076D6&style=flat&logo=webpack&logoColor=%230076D6" alt="website Webpack"/></a>
-<a href="https://github.com"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=GitHub&color=%230076D6&style=flat&logo=GitHub&logoColor=%230076D6" alt="website GitHub"/></a>
-<a href="https://code.visualstudio.com"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=VSC&color=%230076D6&style=flat&logo=visual studio code&logoColor=%230076D6" alt="website Visual Studio Code"/></a>
-<a href="https://code.visualstudio.com"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Figma&color=%230076D6&style=flat&logo=Figma&logoColor=%230076D6" alt="website Figma"/></a>
+<a href="https://www.w3schools.com/css/default.asp"><img src="https://img.shields.io/static/v1?label=&labelColor=afafaf&message=CSS&color=%230076D6&style=flat&logo=css3&logoColor=%14145e" alt="website CSS"/></a>
+<a href="https://www.w3schools.com/html/default.asp"><img src="https://img.shields.io/static/v1?label=&labelColor=afafaf&message=HTML&color=%230076D6&style=flat&logo=html5&logoColor=%14145e" alt="website HTML"/></a>
+<a href="https://developer.mozilla.org/en/docs/Web/JavaScript"><img src="https://img.shields.io/static/v1?label=&labelColor=afafaf&message=JavaScript&color=%230076D6&style=flat&logo=JavaScript&logoColor=%14145e" alt="website JavaScript"/></a>
+<a href="https://create-react-app.dev"><img src="https://img.shields.io/static/v1?label=&labelColor=afafaf&message=React JS&color=%230076D6&style=flat&logo=react&logoColor=%230076D6" alt="website React JS"/></a>
+<a href="https://nodejs.org/uk/"><img src="https://img.shields.io/static/v1?label=&labelColor=afafaf&message=Node JS&color=%230076D6&style=flat&logo=node.js&logoColor=%14145e" alt="website Node.js"/></a>
+<a href="https://sass-lang.com"><img src="https://img.shields.io/static/v1?label=&labelColor=afafaf&message=SASS&color=%230076D6&style=flat&logo=sass&logoColor=%14145e" alt="website SASS"/></a>
+<a href="https://redux-toolkit.js.org"><img src="https://img.shields.io/static/v1?label=&labelColor=afafaf&message=Redux&color=%230076D6&style=flat&logo=redux&logoColor=%14145e" alt="website Redux"/></a>
+<a href="https://git-scm.com"><img src="https://img.shields.io/static/v1?label=&labelColor=afafaf&message=Git&color=%230076D6&style=flat&logo=git&logoColor=%14145e" alt="website Git"/></a>
+<a href="https://www.postman.com"><img src="https://img.shields.io/static/v1?label=&labelColor=afafaf&message=Postman Code&color=%230076D6&style=flat&logo=Postman&logoColor=%14145e" alt="website Postman"/></a>
+<a href="https://webpack.js.org"><img src="https://img.shields.io/static/v1?label=&labelColor=afafaf&message=Webpack&color=%230076D6&style=flat&logo=webpack&logoColor=%14145e" alt="website Webpack"/></a>
+<a href="https://github.com"><img src="https://img.shields.io/static/v1?label=&labelColor=afafaf&message=GitHub&color=%230076D6&style=flat&logo=GitHub&logoColor=%14145e" alt="website GitHub"/></a>
+<a href="https://code.visualstudio.com"><img src="https://img.shields.io/static/v1?label=&labelColor=afafaf&message=VSC&color=%230076D6&style=flat&logo=visual studio code&logoColor=%14145e" alt="website Visual Studio Code"/></a>
+<a href="https://code.visualstudio.com"><img src="https://img.shields.io/static/v1?label=&labelColor=afafaf&message=Figma&color=%230076D6&style=flat&logo=Figma&logoColor=%14145e" alt="website Figma"/></a>
 
 
