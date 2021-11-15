@@ -7,10 +7,6 @@ You can find me on
 
 My CV 
 <a href="https://gigorko1993.github.io/resume/"><img src="https://img.shields.io/static/v1?label=&labelColor=afafaf&message=Resume&color=%230076D6&style=flat" alt="Igor Mokhnatskyy CV"/></a>
-[![RESUME][resume-url]
-
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[resume-url]: https://gigorko1993.github.io/resume
 
 <!--
 **gigorko1993/gigorko1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
