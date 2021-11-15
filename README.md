@@ -6,7 +6,11 @@ You can find me on
 <a href="https://www.linkedin.com/feed/?trk=nav_logo"><img src="https://img.shields.io/static/v1?label=&labelColor=afafaf&message=LinkedIn&color=%230076D6&style=flat&logo=linkedin&logoColor=%14145e" alt="website Linkedin"/></a>
 
 My CV 
-<a href="https://gigorko1993.github.io/resume/"><img src="https://img.shields.io/static/v1?label=&labelColor=afafaf&message=Resume&color=%230076D6&style=flat" alt="Igor Mokhnatskyy CV"/></a>
+
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+/endpoint?url=https://gigorko1993.github.io/resume&style<STYLE>
+
 
 <!--
 **gigorko1993/gigorko1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
