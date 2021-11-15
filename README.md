@@ -7,8 +7,8 @@ You can find me on
 
 My CV 
 
+<a href="https://gigorko1993.github.io/resume"><img src="https://img.shields.io/static/v1?label=&labelColor=afafaf&message=RESUME&color=%230076D6&style=flat" alt="link to CV"/></a>
 
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&colorB=555/endpoint?url=https://gigorko1993.github.io/resume&style<STYLE>
 
 
 <!--
