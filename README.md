@@ -1,6 +1,5 @@
 ### Hello, my name is Igor Mokhnatskyy 👋
 
-## I'm front end developer. I'm from Ukraine, and I'm currently open for cooperation. 
 
 You can find me on 
 <a href="https://www.linkedin.com/feed/?trk=nav_logo"><img src="https://img.shields.io/static/v1?label=&labelColor=afafaf&message=LinkedIn&color=%230076D6&style=flat&logo=linkedin&logoColor=%14145e" alt="website Linkedin"/></a>
